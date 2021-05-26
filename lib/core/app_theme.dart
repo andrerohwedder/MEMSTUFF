@@ -4,7 +4,7 @@ import 'package:memstuff/core/app_const.dart';
 final kAppTheme = ThemeData(
   primarySwatch: Colors.orange,
   visualDensity: VisualDensity.adaptivePlatformDensity,
-  scaffoldBackgroundColor: Color.fromRGBO(217, 217, 217, 1),
+  scaffoldBackgroundColor: Color.fromRGBO(217, 189, 184, 1),
   buttonTheme: ButtonThemeData(
     textTheme: ButtonTextTheme.primary,
   ),
